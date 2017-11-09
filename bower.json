@@ -1,0 +1,21 @@
+{
+  "name": "gmt",
+  "description": "Galgotias Managment Team web handling",
+  "main": "index.html",
+  "keywords": [
+    "gmt"
+  ],
+  "authors": [
+    "frunkad"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
