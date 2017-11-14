@@ -1,0 +1,21 @@
+{
+  "name": "gmt",
+  "description": "Galgotias Managment Team Wen Handling",
+  "main": "index.html",
+  "keywords": [
+    "gmt"
+  ],
+  "authors": [
+    "Darshan Baid"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
